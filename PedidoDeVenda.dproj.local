@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/22 14:18:26.000.251,=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/03/22 14:19:03.000.114,C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\uPedidoVendaPrincipal.pas</Transaction>
+    <Transaction>2022/03/22 14:19:03.000.115,C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\uPedidoVendaPrincipal.dfm</Transaction>
+    <Transaction>2022/03/22 14:19:13.000.280,C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\PedidoDeVenda.dproj</Transaction>
+    <Transaction>2022/03/22 14:42:13.000.042,=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\Unit1.pas</Transaction>
+    <Transaction>2022/03/22 14:42:30.000.135,C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\Unit1.dfm=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\uDataModule.dfm</Transaction>
+    <Transaction>2022/03/22 14:42:30.000.135,C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\Unit1.pas=C:\Users\augus\OneDrive\Documentos\Embarcadero\Studio\Projects\Prova\uDataModule.pas</Transaction>
+    <Transaction>2022/03/23 23:01:11.000.921,=C:\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/03/23 23:01:51.000.770,C:\Teste\Unit1.dfm=C:\Teste\uListaPedidos.dfm</Transaction>
+    <Transaction>2022/03/23 23:01:51.000.770,C:\Teste\Unit1.pas=C:\Teste\uListaPedidos.pas</Transaction>
+    <Transaction>2022/03/24 10:35:07.846,=C:\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/03/24 10:35:19.409,C:\Teste\uComentarios.pas=C:\Teste\Unit1.pas</Transaction>
+    <Transaction>2022/03/24 10:35:19.409,C:\Teste\uComentarios.dfm=C:\Teste\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
